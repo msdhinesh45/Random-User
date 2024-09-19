@@ -8,7 +8,7 @@ Uses HTML, CSS, and JavaScript
 Fetches user data from a JSON file
 How to Use
 Clone the repository:
- https://github.com/msdhinesh45/Random-User.git
+git clone https://github.com/msdhinesh45/Random-User.git
 
 Navigate to the project directory:
 cd random-user-generator
